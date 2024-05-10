@@ -15,7 +15,7 @@
 
 <br clear="both">
 
-<p align="left">I am a Full Stack Web Developer based in Nashik</p>
+<p align="left">I am a Full Stack Web Developer and a Frontend Web Specialist, based in Nashik</p>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">📚 Currently in Third Year Electronics Engineering Undergrad<br>💟 One of my Favourite Language is Javascript<br>🎯 Focusing on mastering MERN Stack and learning NextJS<br>🧑🏻‍💻 Working on a Blog Application in MERN Stack<br>🔎 Wish to explore more in the field of AI, Cyber Security and DSA<br>🎲 I love to listen music and play Piano in my free time</p>
+<p align="left">📚 Currently in Third Year Electronics & Telecommunication Engineering Undergraduation<br>💟 One of my Favourite Language is Javascript<br>🎯 Focusing on mastering MERN Stack and learning NextJS<br>🧑🏻‍💻 Working on a Blog Application in MERN Stack<br>🔎 Wish to explore more in the field of AI, Cyber Security and DSA<br>🎵 Love listening to music and play Piano in my free time</p>
 
 ###
 
