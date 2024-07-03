@@ -21,28 +21,34 @@
 
 <h3 align="left">About me</h3>
 
-###
-
-<p align="left">📚 Currently in Third Year Electronics & Telecommunication Engineering Undergraduation<br>💟 One of my Favourite Language is Javascript<br>🎯 Focusing on mastering MERN Stack and learning NextJS<br>🧑🏻‍💻 Working on a Blog Application in MERN Stack<br>🔎 Wish to explore more in the field of AI, Cyber Security and DSA<br>🎵 Love listening to music and play Piano in my free time</p>
+---
 
 ###
 
-<h3 align="left">I mostly create problems with these buddies :)</h3>
+<p align="left">📚 Currently in Third Year Electronics & Telecommunication Engineering Undergraduation<br>💟 One of my Favourite Language is Javascript<br>🎯 Focusing on mastering MERN Stack and learning NextJS<br>🧑🏻‍💻 Working on a Event Management App in NextJS and trying to dive deep in Full Stack Technologies used for it<br>🔎 Wish to explore more in the field of AI, Cyber Security and DSA<br>🎵 Love listening to music and play Piano in my free time</p>
+
+###
+
+<h3 align="left">Are these technologies enough? 🤔</h3>
+
+---
 
 ###
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
@@ -52,6 +58,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
@@ -60,12 +68,18 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="Notion logo"  />
+  <img width="12" />
 </div>
 
 ###
+
+<h3 align="left">Working on improving this...😅</h3>
+
+---
 
 <br clear="both">
 
