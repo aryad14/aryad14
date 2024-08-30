@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">📚 Currently in Third Year Electronics & Telecommunication Engineering Undergraduation<br>💟 One of my Favourite Language is Javascript<br>🎯 Focusing on mastering MERN Stack and learning NextJS<br>🧑🏻‍💻 Working on a Event Management App in NextJS and trying to dive deep in Full Stack Technologies used for it<br>🔎 Wish to explore more in the field of AI, Cyber Security and DSA<br>🎵 Love listening to music and play Piano in my free time</p>
+<p align="left">📚 Final Year Electronics & Telecommunication Engineering Undergraduate<br>💟 One of my Favourite Language is Javascript<br>🎯 Focusing on mastering MERN Stack and learning NextJS<br>🧑🏻‍💻 Working on a Event Management App in NextJS and trying to dive deep in Full Stack Technologies used for it<br>🔎 Wish to explore more in the field of AI, Cyber Security and DSA<br>🎵 Love listening to music and play Piano in my free time</p>
 
 ###
 
