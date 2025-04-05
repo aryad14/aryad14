@@ -72,6 +72,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=notion" height="40" alt="Notion logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="Wordpress logo"  />
+  <img width="12" />
 </div>
 
 ###
